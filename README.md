@@ -52,3 +52,13 @@ EasyEats is an AI-driven grocery shopping platform designed to simplify and pers
 * **User Testing:** Gather user feedback to iterate on the design and features.
 
 * **Launch & Growth:** Execute the marketing strategy and drive user acquisition and engagement.
+
+## How to View the Project
+
+1. Click on the Figma project link above.
+2. Navigate through the Figma file to explore the different sections and visualizations.
+
+
+## About the Author
+
+Revati Ganorkar | Product Enthusiast | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
